@@ -1,0 +1,1065 @@
+body
+{
+
+    background: url("http://www.falsterbofagelstation.se/bilder/banner_blue.jpg");
+    font-family: Verdana, sans-serif;
+    font-size: 11px;
+    color: navy;
+}
+
+.basePage{
+    width: 1100px;
+    margin: 0 auto auto;
+    padding-top: 0;
+    background-color: white;
+}
+
+.fbop {
+    font-family: Verdana, sans-serif;
+    font-size: 11px;
+    color: navy;
+}
+
+.fboAlignVertMiddle {
+    vertical-align: middle;
+}
+
+.fboh1 {
+    font-size: 20px;
+    font-weight: normal;
+    padding-bottom: 0;
+    margin-bottom: 2px;
+    margin-top: 20px;
+}
+
+.fboh2 {
+    font-weight: bold;
+    font-size: 15px;
+    /* color: red; */
+    margin-bottom: 4px;
+    margin-top: 10px;
+}
+
+.fboh3 {
+    font-weight: bold;
+    font-size: 12px;
+    margin-bottom: 4px;
+}
+
+.top {
+    vertical-align: top;
+}
+
+.fboSponsor{
+    padding: 5px;
+    margin: 5px;
+    background-color: #8b3a62;
+}
+
+div.horizontal {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+
+div.vertical {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-right: 15px;
+}
+
+.tight {
+   // background-color: #4CAF50;
+    padding-top: 2px;
+    margin-top: 2px;
+}
+
+img {
+    border: 0;
+}
+
+.std {
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 100%;
+}
+
+
+.std-right {
+    padding-right: 10px;
+    width: 100%;
+}
+
+.info{
+    font-size: 10px; color: red;
+}
+
+/*
+.flex, .header-container{
+    display: flex;
+    background-color: #FFFFFF;
+    width: 100%;
+    position: relative;
+}
+
+div.flex{
+    display: flex;
+    flex-direction: row;
+}
+
+ */
+
+.header-container{
+    border-bottom: 1px solid #5981D2;
+}
+
+
+.art-list-nav {
+    width: 350px;
+    background-color: #E6EBF9;
+}
+
+div.rast-nav {
+    width: 400px;
+    background-color: #E6EBF9;
+}
+
+
+.cal-nav {
+    width: 220px;
+    background-color: #E6EBF9;
+}
+
+.center {
+    text-align: center;
+}
+
+.topBorder {
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: #CCCCCC;
+}
+
+.col-left{
+    /* width: 130px; */
+    padding-right: 10px;
+    width: 25%;
+/*    background-color: #8b3a62; */
+}
+
+
+.col-center{
+    padding-left: 10px;
+    padding-right: 10px;
+    border-right: 1px solid #CCCCCC;
+    border-left: 1px solid #CCCCCC;
+}
+
+.noLeftPadding {
+    padding-left: 0px;
+}
+
+.top {
+    vertical-align: top;
+}
+
+
+.artlista-nav{
+    width: 300px;
+    background-color: #FFFF00;
+}
+
+.std-center{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.col-right{
+    padding-left: 10px;
+    padding-right: 10px;
+    /* width: 25%; */
+   /* background-color: #CCCCCC; */
+}
+
+.two-right {
+    padding-left: 10px;
+    padding-right: 10px;
+/*    background-color: antiquewhite; */
+
+}
+
+.two-left {
+    padding-left: 10px;
+    padding-right: 10px;
+    max-width: 400px;
+   /* background-color: #73AD21; */
+   /* background-color: blanchedalmond; */
+}
+
+.icon {
+    display: block;
+    margin-top: 2px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.lopande {
+    display: block;
+    padding-left: 10px;
+    margin-right: 10px;
+}
+
+p.publication {
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+
+/* Create three equal columns that floats next to each other */
+.header_column_leftside {
+    padding: 5px;
+    width: 170px;
+    background-color: yellowgreen;
+}
+
+.header_column_middle {
+  background-color: #FFFF00;
+}
+
+.header_column_rightside {
+    margin-top: 0;
+    padding: 0;
+    width: 120px;
+    background-color: #8b0a50;
+
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other on smaller screens (600px wide or less) */
+@media screen and (max-width: 600px) {
+    .column {
+        width: 100%;
+    }
+}
+
+/*fbo-bluemallXXX.css*/
+
+/* table .striped  */
+.striped tr:nth-child(even) {background-color: #E1E8F7}
+.striped th {background-color: #5981D2; color: white; alignment: left; font-weight: normal;
+}
+
+
+table {
+    font-family: Verdana, sans-serif;
+    font-size: 11px;
+    color: navy;
+    background-color: #FFFFFF;
+    width: 100%;
+}
+
+table.small {
+    width: 200px;
+}
+
+.publications {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+
+.publications-pdf-cell {
+    padding-right: 5px;
+    padding-left: 3px;
+}
+
+
+td.fynd {
+    padding-left: 3px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    vertical-align: top;
+}
+
+
+td.fynd-no {
+    padding: 5px 10px 10px 3px;
+    text-align: right;
+    vertical-align: top;
+}
+
+.fynd-no-w{
+    width: 20px;
+}
+
+.fynd-datum{
+    width: 60px;
+    text-align: center;
+}
+
+.fynd-ant-kon{
+    width: 80px;
+}
+
+.fynd-ref {
+    width: 255px;
+}
+
+.hover tr:hover {
+    background-color: #ffff99;
+}
+
+.table_small
+{
+    background-color: #FFFFFF;
+    border: 2px solid #BECCEE;
+    border-left: #315EBB;
+    border-top: #315EBB;
+
+}
+
+/*TABELL UTAN GRÄNSLINJER*/
+
+.table_none
+{
+    background-color: #F2F5FF;
+    border: 0;
+    border-collapse: collapse;
+}
+
+.table-invisible {
+    border: 0;
+    border-collapse: collapse;
+    margin-inside: 5px;
+}
+
+.tableplain {
+    background-color: #BECCEE;
+    border: 0;
+    border-collapse: collapse;
+}
+
+.table_none_small {
+    background-color: #DAE2FD;
+    border: 0;
+    border-collapse: collapse;
+}
+
+
+
+/* A {text-decoration: underline; color:blue} */
+A:link {color:blue; text-decoration: underline}
+A:hover {color:#0099FF; text-decoration: none}
+A:active {color:navy; text-decoration: none}
+
+A.menylink {text-decoration: none; color:white}
+A.menlink:link {color:white; text-decoration: none}
+A.menylink:hover {color:blue}
+A.menylink:active {color:blue}
+
+
+.lastweek
+{
+    background-color: white;
+    color: navy;
+    font-weight: bold
+}
+
+.restweek
+{
+    background-color: #E1E8F7;
+    font-weight: normal;
+    font-style: normal
+}
+
+.alt_tab_bg
+{background-color: #F2F5FF}
+
+
+.tablehead
+{
+    font-family: Verdana, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    background-color: #5981D2;
+    color: #FFFFFF}
+
+
+/* Navigation calendar section */
+.cal_text{
+    font-size:        10px;
+    font-style:       normal;
+    font-weight:      normal;
+}
+
+
+.cal_table {
+    border: 2px; color: #BECCEE;
+    width: 180px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.cal_table a {
+    text-decoration: none;
+}
+
+a.cal_head:hover
+{
+    text-decoration: none;
+}
+
+.cal_head
+{
+    background-color:   #BECCEE;
+    color:              navy;
+    font-size:          11px;
+    font-style:         normal;
+}
+
+.cal_sub_head
+{
+    background-color:   #BECCEE;
+    color:              navy;
+}
+
+.cal_head_side
+{
+    background-color: #BECCEE;
+    font-size:        8px;
+    font-weight:      normal;
+    font-style:       normal;
+}
+
+.cal_days
+{
+    text-align: center;
+    background-color: #BECCEE;
+}
+
+.cal_content
+{
+    text-align: center;
+    background-color: #EEEEEE;
+}
+
+.cal_today
+{
+    text-align: center;
+    background-color: #FFEA00;
+    color: #626364;
+}
+
+
+.cal_vald_dag
+{
+    text-align: center;
+    background-color: #D6DFF3;
+    color: #626364;
+    font-weight: bold;
+
+}
+
+.cal_event, a.cal_event
+{
+    text-align: center;
+    background-color: #D6DFF3;
+    text-decoration: none;
+}
+/*
+A {text-decoration: none; color:navy}
+A:link {color:navy; text-decoration: none}
+A:hover {color:navy; text-decoration: none}
+A:active {color:navy; text-decoration: none}
+*/
+
+
+hr.footer {
+    width: 100%;
+    margin-top: 20px;
+}
+
+hr.index {
+    width: 90%;
+    margin-top: 10px;
+}
+
+/* ------------------------------ menus -------------------------------------------*/
+
+/* Add a blue background color to the top navigation */
+.topnav {
+    position: relative;
+    display: flex;
+    margin: 0 auto;
+    background-color: #5981D2;
+
+    /* background-color: greenyellow; */
+    overflow: hidden;
+    width: 100%;
+}
+
+.fboColor-1 {
+    background-color: #8b3a62;
+}
+
+/* Style the links inside the navigation bar  */
+.topnav a {
+    float: left;
+    color: #f2f2f2; /* Grå text */
+    /* color: #f2f;  VÄLDIGT ROSA text */
+    text-align: center;
+
+    padding: 8px 5px;
+    text-decoration: none;
+    font-size: 13px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #ddd;  /* Grå färg */
+    /* background-color: palevioletred; */
+    color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color: #FFEA00; /* gul - typ*/
+    /*background-color: blueviolet; */
+    color: #626364;
+}
+
+span:first-of-type {
+    flex: 1;
+}
+
+.lokaler-menu {
+    background: #5981D2;
+    padding: 0;
+    margin: 0;
+    width: 12em;
+}
+
+.lokaler-menu li {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.lokaler-menu a {
+    background: #5981D2;
+    border-bottom: 1px solid #5981D2;
+    color: #f2f2f2;
+    display: block;
+    margin: 0;
+    padding: 8px 5px;
+    text-decoration: none;
+    font-weight: normal;
+}
+
+.lokaler-menu a.lvl-ii {
+    background: #BBCCEE;
+    border-bottom: 1px solid #BBCCEE;
+    padding-left: 12px;
+}
+
+.lokaler-menu a:hover {
+    background: #ddd;
+    color: #333;
+    padding-bottom: 8px;
+}
+
+.lokaler-menu a.active {
+    background: #FFEA00;
+    color: #626364;
+}
+
+
+.sub-menu {
+    background: #5981D2;
+    padding: 0;
+    margin: 0;
+    width: 12em;
+}
+
+.sub-menu li {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.sub-menu a {
+    background: #5981D2;
+    border-bottom: 1px solid #5981D2;
+    color: #f2f2f2;
+    display: block;
+    margin: 0;
+    padding: 8px 5px;
+    text-decoration: none;
+    font-weight: normal;
+}
+
+.sub-menu a.lvl-ii {
+    background: #BBCCEE;
+    border-bottom: 1px solid #BBCCEE;
+    padding-left: 12px;
+}
+
+.sub-menu a:hover {
+    background: #ddd;
+    color: #333;
+    padding-bottom: 8px;
+}
+
+.sub-menu a.active {
+    background: #FFEA00;
+    color: #626364;
+}
+
+
+div.inner {
+    display: inline-block;
+    margin: 0 auto;
+    padding: 3px;
+}
+
+div .navigator
+{
+    background-color:  #E6EBF9;
+    width: 180px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    border: 1px outset #BECCEE;
+}
+
+
+.center-child {
+    text-align: center;
+}
+
+
+.centered-child {
+    display: inline-block
+}
+
+
+div.debug{
+    background-color: #5981D2;
+}
+
+img.at-right{
+    float: right;
+}
+
+div.news-item{
+    margin-bottom: 25px;
+}
+
+
+.foto {
+    position:absolute;         /* Ensure that it does not take space on the web page */
+    visibility:hidden;         /* Normally it is invisible */
+    background-color:#BECCEE;  /* Something that contrasts with the rest of the web page */
+    border: 1px solid #315EBB; /* blue border, 1px wide */
+    z-index:12;                /* Ensure that it hides anything that it where it pops up */
+    padding: 5px 5px 10px;
+    width: 180px;
+}
+
+
+img.hoger {
+    text-align: right;
+}
+
+
+img:hover + .foto {   /* Select for the item (span) that follow a link (<a>) */
+    /* that the mouse is hovering over */
+    visibility:visible;       /* Make the text in class tooltip_demo visible */
+}
+
+
+img:hover + .title {   /* Select for the item (span) that follow a link (<a>) */
+    /* that the mouse is hovering over */
+    visibility:visible;       /* Make the text in class tooltip_demo visible */
+}
+
+.div-show {
+    /* background-color: #FFFF00;*/
+    width: 40%;
+    margin-right: 120px;
+}
+
+.div-left {
+    /* background-color: #d18200; */
+    width: 80%;
+    padding-right: 20px;
+}
+
+.art-vinjettt-bild {
+    display: block;
+    /* margin-left: auto; */
+    /* margin-right: 10px; */
+}
+
+
+.flagga {
+    margin-top: 0;
+    padding: 0;
+    background-color: #FFFF00;
+}
+
+table.tbl_small {
+    width: 550px;
+}
+
+td.centered {
+    text-align: center;
+}
+
+td.right-with-margin {
+    text-align: right;
+    padding-right: 25px;
+}
+
+td.legend-symbol{
+    width: 20px;
+}
+
+td.no-f {
+    text-align: right;
+    padding-right: 5px;
+}
+
+td.no-s {
+    text-align: right;
+    padding-right: 15px;
+}
+
+td.rr-sum{
+    width: 45px;
+}
+
+td.species-name{
+    width: 150px;
+}
+
+td.dagsum {
+    text-align: right;
+    padding-right: 3px;
+}
+
+
+td.tbl-no {
+    width: 37px;
+    text-align: right;
+    padding-right: 3px;
+}
+
+td.tbl-text-col {
+    width: 80px;
+    text-align: left;
+    padding-left: 5px;
+}
+
+
+td.art {
+    width: 220px;
+}
+
+
+td.top {
+    vertical-align: text-top;
+
+}
+
+td.sumdagsum {
+    width: 50px;
+    text-align: right;
+    padding-right: 3px;
+}
+
+td.no-wider {
+    width: 20px;
+    text-align: right;
+    padding-right: 5px;
+}
+
+tr.summa{
+    font-weight:bold;
+    font-style: italic;
+}
+
+td.summa{
+
+    font-weight:bold;
+    font-style: italic;
+
+    padding-top: 3px;
+    padding-bottom: 5px;
+    border-top: 1px solid #0000ff;
+}
+
+td.day-no {
+    width: 15px;
+    text-align: right;
+    padding-right: 5px;
+}
+
+td.to, th.to{
+    width: 25px;
+}
+
+td.w45, th.w45{
+    width: 45px;
+}
+
+td.lokal, th.lokal{
+    width: 80px;
+}
+
+.ringing-table {
+    width: 280px;
+   /* background-color: #d18200; */
+    margin-right: 40px;
+}
+
+.shadow {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: 8px;
+}
+
+.shadownarrow {
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 15px 0 rgba(0, 0, 0, 0.19);
+    margin: 6px;
+}
+
+
+span.shd{
+    padding-left: 8px;
+}
+
+div.gallery-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
+div.paginator {
+    margin-top: 10px;
+    text-align: center;
+}
+
+p.artsummary {
+    margin-top: 10px;
+    text-align: right;
+}
+
+span.lang {
+    align-self: end;
+
+}
+
+tr.italics{
+    font-style: italic;
+}
+
+td.fet-stil{
+    font-weight: bold;
+}
+
+table.one-hundred{
+    width: 150px;
+}
+
+div.intro-image{
+    padding-left: 50px;
+
+}
+
+div.test{
+    background-color: #CC3300;
+    width: 100%;
+
+}
+
+
+h3.alarm {
+    color: red;
+}
+
+
+h3.green {
+    color: green;
+}
+
+
+span.language-select {
+    align-self: self-end;
+}
+
+
+div.dagsum-table {
+    width: 100px;
+    margin-right: 10px;
+}
+
+td.date{
+    width: 80px;
+    text-align: center;
+}
+
+td.year{
+    width: 60px;
+    text-align: center;
+}
+
+
+div.tio-i-topp-table {
+    width: 250px;
+    padding-right: 30px;
+}
+
+.div600{
+    max-width: 600px;
+}
+
+.div-max-100-pct{
+    max-width: 100%;
+}
+
+div.space-below{
+    height: 100px;
+}
+
+img.skof{
+    margin-right: 10px;
+    margin-top: 5px;
+    height: 100px;
+}
+
+img.tmp{
+    width: 94px;
+    height: 123px;
+}
+
+table.smhi{
+    width: 100%;
+    margin-top: 15px;
+}
+
+.smhi-blue-row{
+    background-color: #dbe9f8;
+}
+
+td.smhi-data{
+    width: 90px;
+    text-align: center;
+}
+
+td.smhi-info{
+    text-align: center;
+    background-color: #dbe9f8;
+    width: 90px;
+}
+
+td.strack-antal{
+    text-align: right;
+    width: 100px;
+    padding-right: 5px;
+}
+
+
+th.header-art{
+   width: 150px;
+}
+
+div.vader-tabell {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 430px;
+    height: 85px;
+}
+
+table.smhi-dagbok{
+    width: 435px;
+    margin-top: 15px;
+}
+
+th td.smhi-tid{
+    width: 26px;
+    text-align: left;
+}
+
+th td.smhi-moln{
+    width: 30px;
+    text-align: left;
+}
+
+th td.smhi-vind{
+    width: 26px;
+    text-align: left;
+}
+
+th td.smhi-ms{
+    width: 20px;
+    text-align: right;
+}
+
+th td.smhi-temp{
+    width: 40px;
+    text-align: right;
+}
+
+th td.smhi-sikt{
+    width: 50px;
+    text-align: right;
+}
+
+th.smhi-sikt-data{
+    text-align: right;
+}
+
+th td.smhi-tryck{
+    width: 44px;
+    text-align: right;
+}
+
+th.smhi-vader-header{
+    text-align: left;
+}
+
+th .smhi-vader-icon{
+    width: 10px;
+    text-align: center;
+}
+
+div .smhi-info-box{
+    width: 350px;
+    text-align: left;
+}
+
+td .smhi-vader-data{
+    text-align: left;
+}
+
+div.webshopitem{
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+div.legend {
+    padding: 5px;
+    background-color: #FFFFFF;
+}
+
+#maptest{
+    height: 600Px;
+    width: 850px;
+}
+
+.mgFull{
+    width: 100%;
+    color: #8B0000;
+}
