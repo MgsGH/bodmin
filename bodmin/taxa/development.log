@@ -1,0 +1,74 @@
+$_POST size: 3
+  
+taxa_id: 527
+ringCode-2: 1
+ringCode-3: 1
+  
+  
+$_POST size: 3
+  
+taxa_id: 527
+ringCode-2: 1
+ringCode-3: 2
+  
+  
+$_POST size: 2
+  
+taxa_id: 527
+ringCode-2: 1
+  
+  
+$_POST size: 19
+  
+taxa_id: 681
+slct-measurements-2: 1
+slct-sex-2: 4
+slct-age-2: 99
+slct-month-2: 1,2,3,4,5,6,7,8,9,10,11,12
+#id-min-2: 60
+#id-max-2: 66
+slct-measurements-3: 2
+slct-sex-3: 4
+slct-age-3: 99
+slct-month-3: 1,2,3,4,5,6,7,8,9,10,11,12
+#id-min-3: 60
+#id-max-3: 90
+slct-measurements-4: 7
+slct-sex-4: 4
+slct-age-4: 99
+slct-month-4: 7,8,9,10,11,12
+#id-min-4: 20
+#id-max-4: 25
+  
+  
+
+writing
+writing
+writing
+$_POST size: 19
+  
+taxa_id: 681
+slct-measurements-2: 1
+slct-sex-2: 4
+slct-age-2: 99
+slct-month-2: 1,2,3,4,5,6,7,8,9,10,11,12
+#id-min-2: 60
+#id-max-2: 66
+slct-measurements-3: 2
+slct-sex-3: 4
+slct-age-3: 99
+slct-month-3: 1,2,3,4,5,6,7,8,9,10,11,12
+#id-min-3: 60
+#id-max-3: 90
+slct-measurements-4: 7
+slct-sex-4: 4
+slct-age-4: 99
+slct-month-4: 1,2,3,4,5,6,7,8,9,10,11,12
+#id-min-4: 20
+#id-max-4: 25
+  
+  
+
+writing
+writing
+writing

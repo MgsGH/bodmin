@@ -1,0 +1,98 @@
+$_POST size: 3
+  
+mode: add
+name: A test
+type: 0
+  
+  
+$_POST size: 3
+  
+mode: add
+name: A test
+type: 0
+  
+  
+$_POST size: 3
+  
+mode: add
+name: A test
+type: 0
+  
+  
+$_POST size: 3
+  
+mode: add
+name: A test
+type: 0
+  
+  
+1
+$_POST size: 3
+  
+mode: add
+name: A test
+type: 0
+  
+  
+1
+$_POST size: 4
+  
+mode: edit
+name: A test
+type: 00
+id: 53
+  
+  
+1
+$_POST size: 4
+  
+mode: edit
+name: A test a
+type: 0
+id: 53
+  
+  
+1
+$_POST size: 4
+  
+mode: edit
+name: A test a
+type: X
+id: 53
+  
+  
+1
+$_POST size: 4
+  
+mode: edit
+name: A test a
+type: 9
+id: 53
+  
+  
+1
+$_POST size: 4
+  
+mode: edit
+name: A test a
+type: 0
+id: 53
+  
+  
+1
+$_POST size: 2
+  
+mode: delete
+id: 53
+  
+  
+1
+$_POST size: 4
+  
+mode: edit
+name: 90 låg stål special (hökuggla)
+type: 90
+id: 44
+  
+  
+1

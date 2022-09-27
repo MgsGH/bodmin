@@ -1,0 +1,473 @@
+Permission level for user: 5
+Permission level for user: 5
+Permission level for user: 5
+Permission level for user: 5
+Permission level for user: 5
+11
+module_id 1
+sortorder 1
+isparent 0
+parent_id 0
+USER_ID 1
+LANGUAGE_ID 2
+PERMISSION_ID 3
+htmlId mod-home
+link /index.php
+TEXT Start
+SELECTED 0
+11
+module_id 15
+sortorder 5
+isparent 0
+parent_id 0
+USER_ID 1
+LANGUAGE_ID 2
+PERMISSION_ID 5
+htmlId mod-ring
+link /ringing/index.php
+TEXT Ringmärkning
+SELECTED 0
+11
+module_id 3
+sortorder 7
+isparent 0
+parent_id 0
+USER_ID 1
+LANGUAGE_ID 2
+PERMISSION_ID 5
+htmlId mod-rr
+link /rastrakning/index.php
+TEXT Rasträkning
+SELECTED 0
+11
+module_id 4
+sortorder 9
+isparent 0
+parent_id 0
+USER_ID 1
+LANGUAGE_ID 2
+PERMISSION_ID 5
+htmlId mod-guid
+link /guidningar/index.php
+TEXT Guidningar
+SELECTED 0
+11
+module_id 8
+sortorder 10
+isparent 0
+parent_id 0
+USER_ID 1
+LANGUAGE_ID 2
+PERMISSION_ID 5
+htmlId mod-logi
+link /logi/index.php
+TEXT Logi
+SELECTED 0
+11
+module_id 2
+sortorder 12
+isparent 0
+parent_id 0
+USER_ID 1
+LANGUAGE_ID 2
+PERMISSION_ID 5
+htmlId mod-news
+link /news/index.php
+TEXT Nyheter
+SELECTED 0
+11
+module_id 7
+sortorder 14
+isparent 0
+parent_id 0
+USER_ID 1
+LANGUAGE_ID 2
+PERMISSION_ID 5
+htmlId mod-gall
+link /bilder/index.php
+TEXT Bilder
+SELECTED 0
+11
+module_id 5
+sortorder 15
+isparent 0
+parent_id 0
+USER_ID 1
+LANGUAGE_ID 2
+PERMISSION_ID 5
+htmlId mod-publ
+link /publikationer/index.php
+TEXT Publikationer
+SELECTED 0
+11
+module_id 6
+sortorder 16
+isparent 0
+parent_id 0
+USER_ID 1
+LANGUAGE_ID 2
+PERMISSION_ID 5
+htmlId mod-artl
+link /artlistan/index.php
+TEXT Artlista
+SELECTED 0
+11
+module_id 9
+sortorder 19
+isparent 0
+parent_id 0
+USER_ID 1
+LANGUAGE_ID 2
+PERMISSION_ID 5
+htmlId mod-pers
+link /personer/index.php
+TEXT Personer
+SELECTED 0
+11
+module_id 16
+sortorder 20
+isparent 1
+parent_id 0
+USER_ID 1
+LANGUAGE_ID 2
+PERMISSION_ID 5
+htmlId mod-more
+link more/
+TEXT Mera
+SELECTED 1
+
+0
+11
+module_id 1
+sortorder 1
+isparent 0
+parent_id 0
+USER_ID 1
+LANGUAGE_ID 2
+PERMISSION_ID 3
+htmlId mod-home
+link /index.php
+TEXT Start
+SELECTED 0
+0
+--------
+
+1
+11
+module_id 15
+sortorder 5
+isparent 0
+parent_id 0
+USER_ID 1
+LANGUAGE_ID 2
+PERMISSION_ID 5
+htmlId mod-ring
+link /ringing/index.php
+TEXT Ringmärkning
+SELECTED 0
+0
+--------
+
+2
+11
+module_id 3
+sortorder 7
+isparent 0
+parent_id 0
+USER_ID 1
+LANGUAGE_ID 2
+PERMISSION_ID 5
+htmlId mod-rr
+link /rastrakning/index.php
+TEXT Rasträkning
+SELECTED 0
+0
+--------
+
+3
+11
+module_id 4
+sortorder 9
+isparent 0
+parent_id 0
+USER_ID 1
+LANGUAGE_ID 2
+PERMISSION_ID 5
+htmlId mod-guid
+link /guidningar/index.php
+TEXT Guidningar
+SELECTED 0
+0
+--------
+
+4
+11
+module_id 8
+sortorder 10
+isparent 0
+parent_id 0
+USER_ID 1
+LANGUAGE_ID 2
+PERMISSION_ID 5
+htmlId mod-logi
+link /logi/index.php
+TEXT Logi
+SELECTED 0
+0
+--------
+
+5
+11
+module_id 2
+sortorder 12
+isparent 0
+parent_id 0
+USER_ID 1
+LANGUAGE_ID 2
+PERMISSION_ID 5
+htmlId mod-news
+link /news/index.php
+TEXT Nyheter
+SELECTED 0
+0
+--------
+
+6
+11
+module_id 7
+sortorder 14
+isparent 0
+parent_id 0
+USER_ID 1
+LANGUAGE_ID 2
+PERMISSION_ID 5
+htmlId mod-gall
+link /bilder/index.php
+TEXT Bilder
+SELECTED 0
+0
+--------
+
+7
+11
+module_id 5
+sortorder 15
+isparent 0
+parent_id 0
+USER_ID 1
+LANGUAGE_ID 2
+PERMISSION_ID 5
+htmlId mod-publ
+link /publikationer/index.php
+TEXT Publikationer
+SELECTED 0
+0
+--------
+
+8
+11
+module_id 6
+sortorder 16
+isparent 0
+parent_id 0
+USER_ID 1
+LANGUAGE_ID 2
+PERMISSION_ID 5
+htmlId mod-artl
+link /artlistan/index.php
+TEXT Artlista
+SELECTED 0
+0
+--------
+
+9
+11
+module_id 9
+sortorder 19
+isparent 0
+parent_id 0
+USER_ID 1
+LANGUAGE_ID 2
+PERMISSION_ID 5
+htmlId mod-pers
+link /personer/index.php
+TEXT Personer
+SELECTED 0
+0
+--------
+
+0
+11
+module_id 1
+sortorder 1
+isparent 0
+parent_id 0
+USER_ID 1
+LANGUAGE_ID 2
+PERMISSION_ID 3
+htmlId mod-home
+link /index.php
+TEXT Start
+SELECTED 0
+0
+--------
+
+1
+11
+module_id 15
+sortorder 5
+isparent 0
+parent_id 0
+USER_ID 1
+LANGUAGE_ID 2
+PERMISSION_ID 5
+htmlId mod-ring
+link /ringing/index.php
+TEXT Ringmärkning
+SELECTED 0
+0
+--------
+
+2
+11
+module_id 3
+sortorder 7
+isparent 0
+parent_id 0
+USER_ID 1
+LANGUAGE_ID 2
+PERMISSION_ID 5
+htmlId mod-rr
+link /rastrakning/index.php
+TEXT Rasträkning
+SELECTED 0
+0
+--------
+
+3
+11
+module_id 4
+sortorder 9
+isparent 0
+parent_id 0
+USER_ID 1
+LANGUAGE_ID 2
+PERMISSION_ID 5
+htmlId mod-guid
+link /guidningar/index.php
+TEXT Guidningar
+SELECTED 0
+0
+--------
+
+4
+11
+module_id 8
+sortorder 10
+isparent 0
+parent_id 0
+USER_ID 1
+LANGUAGE_ID 2
+PERMISSION_ID 5
+htmlId mod-logi
+link /logi/index.php
+TEXT Logi
+SELECTED 0
+0
+--------
+
+5
+11
+module_id 2
+sortorder 12
+isparent 0
+parent_id 0
+USER_ID 1
+LANGUAGE_ID 2
+PERMISSION_ID 5
+htmlId mod-news
+link /news/index.php
+TEXT Nyheter
+SELECTED 0
+0
+--------
+
+6
+11
+module_id 7
+sortorder 14
+isparent 0
+parent_id 0
+USER_ID 1
+LANGUAGE_ID 2
+PERMISSION_ID 5
+htmlId mod-gall
+link /bilder/index.php
+TEXT Bilder
+SELECTED 0
+0
+--------
+
+7
+11
+module_id 5
+sortorder 15
+isparent 0
+parent_id 0
+USER_ID 1
+LANGUAGE_ID 2
+PERMISSION_ID 5
+htmlId mod-publ
+link /publikationer/index.php
+TEXT Publikationer
+SELECTED 0
+0
+--------
+
+8
+11
+module_id 6
+sortorder 16
+isparent 0
+parent_id 0
+USER_ID 1
+LANGUAGE_ID 2
+PERMISSION_ID 5
+htmlId mod-artl
+link /artlistan/index.php
+TEXT Artlista
+SELECTED 0
+0
+--------
+
+9
+11
+module_id 9
+sortorder 19
+isparent 0
+parent_id 0
+USER_ID 1
+LANGUAGE_ID 2
+PERMISSION_ID 5
+htmlId mod-pers
+link /personer/index.php
+TEXT Personer
+SELECTED 0
+0
+--------
+
+10
+11
+module_id 16
+sortorder 20
+isparent 1
+parent_id 0
+USER_ID 1
+LANGUAGE_ID 2
+PERMISSION_ID 5
+htmlId mod-more
+link more/
+TEXT Mera
+SELECTED 1
+1
+--------
