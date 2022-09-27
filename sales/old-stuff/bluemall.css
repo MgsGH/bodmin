@@ -1,0 +1,328 @@
+/*bluemall.css*/
+
+/* table .striped  */
+.striped tr:nth-child(even) {background-color: #E1E8F7}
+.striped th {background-color: #5981D2; color: white; alignment: left; font-weight: normal;
+}
+
+#bigdiv
+{
+width: 100%;
+text-align: center;
+}
+
+#page-container 
+{
+width: 1000px;
+margin-left: auto;
+margin-right: auto
+}
+
+#page-container2 
+{
+width: 990px;
+margin-top: 0;
+margin-left: auto;
+margin-right: auto;
+}
+
+#page-container980 
+{
+width: 980px;
+margin-top: 0;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+#page-container3 
+{
+width: 750px;
+margin-left: auto;
+margin-right: auto;
+border:0;
+}
+
+#page-container4 
+{
+width: 980px;
+margin:0 auto;
+text-align: left
+}
+
+#menyrad
+{
+width: 990px;
+margin-left: auto;
+margin-right: auto;
+padding: 0
+}
+
+#overst
+{
+width: 985px;
+margin-left: auto;
+margin-right: auto
+}
+
+#mitterst
+{
+width: 985px;
+margin-left: auto;
+margin-right: auto
+}
+
+#under
+{
+width: 985px;
+margin-left: auto;
+margin-right: auto
+}
+
+
+html
+{
+scrollbar-3d-light-color: #BECCEE;
+scrollbar-arrow-color: #FFFFFF;
+scrollbar-base-color: #CCCCCC;
+scrollbar-dark-shadow-color: #315EBB;
+scrollbar-face-color: #5981D2;
+scrollbar-highlight-color: #5981D2;
+scrollbar-shadow-color: #666666
+}
+
+body 
+{
+background-color: #BECCEE;
+background: url("/htdocs/sales/bilder/banner_blue.jpg");
+background-attachment: fixed;
+background-position: center top;
+font-family: Verdana, sans-serif; font-size: 12px; color: navy;
+}
+
+table {
+    background-color: #FFFFFF;
+    font-family: Verdana, sans-serif; font-size: 12px; color: navy;
+    cell-spacing: 0
+    
+}
+
+.table_small {
+    background-color: #FFFFFF;
+    font-family: Verdana, sans-serif; font-size: 10px; color: navy;
+    cell-spacing: 0
+    
+}
+
+/*TABELL UTAN GR�NSLINJER*/
+.table_none 
+{cell-spacing: 0; 
+ cell-padding: 0;
+ background-color: #F2F5FF;
+ font-family: Verdana, sans-serif; font-size: 11px; color: navy;
+ border: 0;
+ border-collapse: collapse}
+
+.table_none_small 
+{cell-spacing: 0; 
+ cell-padding: 0;
+ background-color: #DAE2FD;
+ font-family: Verdana, sans-serif; font-size: 10px; color: navy;
+ border: 0;
+ border-collapse: collapse}
+
+button 
+{width: 90px;
+ font-family: Verdana, sans-serif; 
+ font-size: 11px; font-weight: bold; 
+ background-color: #5981D2; color: #FFFFFF; 
+ border-left: 2px solid #BECCEE; 
+ border-right: 2px solid #315EBB; 
+ border-top: 2px solid #BECCEE; 
+ border-bottom: 2px solid #315EBB}
+ 
+.liten_knapp
+{width: 80px;
+ font-family: Verdana, sans-serif; 
+ font-size: 10px; font-weight: bold; 
+ background-color: #5981D2; color: #FFFFFF; 
+ border-left: 2px solid #BECCEE; 
+ border-right: 2px solid #315EBB; 
+ border-top: 2px solid #BECCEE; 
+ border-bottom: 2px solid #315EBB}
+
+INPUT, SELECT, TEXTAREA	 
+{font-family: verdana; 
+ font-size: 11px;
+ color: navy;
+ border-style: solid;
+ border-left: 2px solid #315EBB; 
+ border-right: 1px solid #BECCEE; 
+ border-top: 2px solid #315EBB; 
+ border-bottom: 1px solid #BECCEE}
+ 
+input.submit
+{font-family: Verdana, sans-serif; 
+ font-size: 11px; font-weight: bold; 
+ background-color: #5981D2; color: #FFFFFF; 
+ border-left: 2px solid #BECCEE; 
+ border-right: 2px solid #315EBB; 
+ border-top: 2px solid #BECCEE; 
+ border-bottom: 2px solid #315EBB}
+ 
+
+A {text-decoration: none; color:blue} 
+A:link {color:blue; text-decoration: none}
+A:hover {color:navy; text-decoration: none} 
+A:active {color:navy; text-decoration: none}
+
+A.menylink {text-decoration: none; color:white} 
+A.menlink:link {color:white; text-decoration: none}
+A.menylink:hover {color:blue} 
+A.menylink:active {color:blue}
+
+.storrubrik
+{
+color: navy;
+font-family: Verdana;
+font-size: 24px;
+}
+
+.rubrik
+{
+color: navy;
+font-family: Verdana;
+font-size: 14px
+}
+
+.litentext
+{
+color: navy;
+font-family: Verdana;
+font-size: 10px
+}
+
+.stortext
+{
+color: navy;
+font-family: Verdana;
+font-size: 12px
+}
+
+.stortext_fet
+{
+color: navy;
+font-family: Verdana;
+font-size: 12px;
+font-weight: bold;
+}
+
+.lastweek
+{
+background-color: white;
+color: navy;
+font-family: Verdana;
+font-size: 11px;
+font-weight: bold
+}
+
+.restweek
+{
+background-color: #E1E8F7;
+color: navy;
+font-family: Verdana;
+font-size: 11px;
+font-weight: normal;
+font-style: normal
+}
+
+.bildram
+{
+border-left: 2px solid #E6EBF9; 
+border-right: 2px solid #BECCEE; 
+border-top: 2px solid #E6EBF9; 
+border-bottom: 2px solid #BECCEE
+}
+
+.bildram2
+{
+border-right: 1px solid #BECCEE; 
+border-left: 1px solid #315EBB; 
+border-bottom: 1px solid #BECCEE; 
+border-top: 1px solid #315EBB
+}
+
+.bildram3
+{
+border-right: 2px solid #BECCEE; 
+ border-left: 2px solid #315EBB; 
+ border-bottom: 2px solid #BECCEE; 
+ border-top: 2px solid #315EBB
+}
+
+.bildram4
+{
+ border-right: 1px solid #F5F5F5; 
+ border-left: 1px solid #808080;
+ border-bottom: 1px solid #F5F5F5; 
+ border-top: 1px solid #808080
+}
+
+.vykort
+{border-right: 1px solid #000000; 
+ border-left: 1px solid #C0C0C0;
+ border-bottom: 1px solid #000000;
+ border-top: 1px solid #C0C0C0
+}	
+
+.alt_tab_bg
+{background-color: #F2F5FF}
+
+.tablehead
+{font-family: Verdana, sans-serif; 
+ font-size: 11px; font-weight: bold; 
+ background-color: #5981D2; color: #FFFFFF}
+ 
+/*font och f�rger f�r overlib-rutor*/
+.fontClass {font-family: 'Verdana'; font-size: 10px;}
+.fgClass {border: 0; background-color: #F2F5FF;}
+.bgClass {border: 0; background-color: #315EBB;}
+
+
+.menu {
+    background-color: yellow;
+    text-align: center;  
+}
+
+
+A.menu {
+    text-decoration: none; 
+    font-size: 12px; 
+    font-family: Verdana; 
+    color:#FFFFFF;     
+} 
+A.menu:link {color:white; text-decoration: none}
+A.menu:hover {color:blue} 
+A.menu:active {color:blue}
+
+.storage  {
+        border-top:2px solid #BBCCEE; 
+    border-bottom:2px solid #315EBB; 
+    border-collapse:collapse; 
+    font-size: 12px; 
+    font-family: Verdana; color:#FFFFFF; 
+ background-color: #5981D2;    
+
+}
+
+table .fbostriped {}
+.fbostriped tr:nth-child(even) {background-color: #E1E8F7}
+.fbostriped th {background-color: #5981D2; color: white; }
+
+
+.basePage {
+    width: 1000px;
+    margin: 0 auto auto;
+    padding-top: 0;
+    background-color: white;
+}

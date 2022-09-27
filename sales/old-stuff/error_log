@@ -1,0 +1,7 @@
+
+[28-May-2022 06:44:32 UTC] PHP Notice:  Undefined index: artkat in /home/hkghbhzh/public_html/sales/varuspec.php on line 6
+[28-May-2022 06:44:32 UTC] PHP Notice:  Undefined index: lan in /home/hkghbhzh/public_html/sales/varuspec.php on line 8
+[28-May-2022 06:44:32 UTC] PHP Notice:  Undefined variable: rad_1 in /home/hkghbhzh/public_html/sales/varuspec.php on line 98
+[28-May-2022 06:44:32 UTC] PHP Notice:  Undefined variable: visastorbild in /home/hkghbhzh/public_html/sales/varuspec.php on line 99
+[28-May-2022 06:44:32 UTC] PHP Notice:  Undefined variable: spectext in /home/hkghbhzh/public_html/sales/varuspec.php on line 100
+[28-May-2022 06:44:32 UTC] PHP Notice:  Undefined variable: backtext in /home/hkghbhzh/public_html/sales/varuspec.php on line 120
