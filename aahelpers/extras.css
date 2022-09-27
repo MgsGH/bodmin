@@ -1,0 +1,445 @@
+.login-box {
+    width: 350px;
+    padding: 20px;
+    margin: auto;
+}
+
+.super-header {
+    background-color: #212529;
+    color: white;
+    text-align: right;
+    padding-right: 50px;
+}
+
+.mg-top {
+    margin-top: 5px;
+}
+.mg-top-three {
+    margin-top: 3px;
+}
+
+.mg-bottom-ten {
+    margin-bottom: 15px;
+    margin-top: 0;
+}
+
+.mg-bottom-ten {
+    margin-bottom: 15px;
+    margin-top: 0;
+}
+
+.mg-w-275 {
+    width: 275px;
+  /*  border: 2px solid green; */
+}
+
+.mg-pad-left-xx {
+    margin-left: 20px;
+    background-color: red;
+    border: 2px solid red;
+}
+
+
+.mg-top-ten {
+    margin-top: 10px;
+}
+.mg-top-seven {
+    margin-top: 7px;
+}
+
+.mg-tableRowSelected{
+    border: 2px solid red;
+}
+
+tr.notYetWrittenToDB {
+    color : #6c757d;
+    background-color: #f5c6cb;
+}
+
+
+.mg-sidenav {
+
+    /*background-color: rgba(141, 150, 156, 0.56); /* gray */
+    background-color: #aaaaaa;
+    padding-top: 20px;
+    max-width: 310px;
+}
+
+.mg-sidenav-news {
+
+    /*background-color: rgba(141, 150, 156, 0.56); /* gray */
+    background-color: #aaaaaa;
+    padding-top: 20px;
+    max-width: 290px;
+}
+
+.mg-white-smoke {
+    background-color: whitesmoke;
+}
+
+input.mg-warning {
+    border: 1px solid red;
+    border-radius: 4px;
+}
+
+small.mg-warning-input{
+    color : red;
+}
+
+.mg-hdrLink {
+    color: #ba8b00;
+}
+
+.mg-not-visible {
+    visibility: hidden;
+}
+
+.mg-hide-element {
+    display: none;
+}
+
+.mg-bold{
+    font-weight: bold;
+}
+
+.mg-table-row-data{
+    background-color: rgba(0,0,0,.075);
+}
+
+.mg-110-span {
+    width: 120px;
+    text-align: left;
+    display: inline-block;
+}
+
+.mg-80-span {
+    width: 80px;
+    vertical-align: text-top;
+    text-align: left;
+    display: inline-block;
+}
+
+
+.mg-320-span {
+    width: 320px;
+    text-align: left;
+    vertical-align: text-top;
+    display: inline-block;
+}
+
+
+.mg-655-span {
+    width: 655px;
+    //background-color: #90b0a8;
+    text-align: right;
+    vertical-align: text-top;
+    display: inline-block;
+}
+
+
+.mg-160-span {
+    width: 160px;
+    text-align: left;
+    display: inline-block;
+}
+
+.mg-60-span {
+    width: 60px;
+    text-align: left;
+    display: inline-block;
+}
+
+.mg-40-span {
+    width: 40px;
+    text-align: left;
+    display: inline-block;
+}
+
+.mg-20-span {
+    width: 20px;
+    text-align: left;
+    display: inline-block;
+}
+
+.mg-140-span {
+    width: 140px;
+    text-align: left;
+    display: inline-block;
+}
+
+.mg-150-span {
+    width: 140px;
+    text-align: left;
+    display: inline-block;
+}
+
+.mg-text-center {
+    text-align: center;
+}
+
+.mg-test{
+    background-color: chartreuse;
+}
+
+.bookingRecord {
+    cursor: pointer;
+}
+
+.orderRow {
+    vertical-align: text-top;
+    cursor: pointer;
+}
+
+.selectedBooking {
+    background-color : #90b0a8;
+}
+
+.mg-form-control:focus {
+    box-shadow: none;
+    border: none;
+}
+
+.mg-form-control::placeholder {
+    font-size: 0.95rem;
+    color: #aaa;
+    font-style: italic;
+}
+
+
+td.mg-no-right {
+    text-align: right;
+    padding-right: 20px;
+}
+
+
+td.mg-date {
+    width: 110px;
+}
+
+td.mg-art {
+    width: 110px;
+}
+
+
+td.mg-no-right-ten {
+    text-align: right;
+    width: 40px;
+    padding-right: 10px;
+}
+
+
+div.mg-left-x{
+    padding-left: 15px;
+}
+
+div.mg-bordered {
+
+    border: #95999c;
+    border-width: 1px;
+    border-style: solid;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+
+}
+
+.ui-tabs .ui-tabs-panel {
+    padding: 1em 1.4em 1em 0;
+}
+
+.mg-red{
+    background-color: #b21f2d;
+}
+
+.mg-peanut{
+    background-color: #ba8b00;
+}
+
+.mg-white{
+    background-color: white;
+}
+
+.mg-blue{
+    background-color: #7abaff;
+}
+
+.mg-yellow{
+    background-color: #ffc107;
+}
+
+.highlight a{
+    //background-color: #ba8b00 !important;
+    color: #ba8b00 !important;
+    //color: #ffffff !important;
+    font-weight: bold;
+}
+
+ul.mgUlInline   { list-style: none;
+    padding: 0;
+}
+
+li.mgLiInline {
+    display: inline;
+    background-color: #adb5bd;
+    padding: 3px 3px 5px;
+    margin-left: 2px;
+    margin-right: 2px;
+    border-radius: 5px;
+}
+
+.my-custom-scrollbar {
+    position: relative;
+    height: 200px;
+    overflow: auto;
+}
+
+.table-wrapper-scroll-y {
+    display: block;
+}
+
+/* Ensure the size of the image fit the container perfectly */
+img {
+    display: block;
+
+    /* This rule is very important, please don't ignore this */
+    max-width: 100%;
+}
+
+.imgInLine {
+    display: inline;
+    max-width: 100%;
+}
+
+#canvas {
+    height: 600px;
+    width: 600px;
+    background-color: #ffffff;
+    cursor: default;
+    border: 1px solid black;
+}
+
+div.mg-height-600 {
+    height: 600px;
+}
+
+.image-edit-btn {
+    background-color: transparent ; /* transparent background */
+    border: none; /* Remove borders */
+    color: black; /* White text */
+    padding: 12px 16px; /* Some padding */
+    font-size: 16px; /* Set a font size */
+    cursor: pointer; /* Mouse pointer on hover */
+}
+
+.image-edit-btn:hover {
+    background-color: RoyalBlue;
+}
+
+div.text-alert{
+
+    padding-bottom: 10px;
+    color: #ffc107;
+
+}
+
+img.padding-right {
+    padding-right: 4px;
+}
+
+img.padding-left {
+    padding-left: 4px;
+}
+
+/* tabs */
+#tabs-min {
+    background: transparent;
+    border: none;
+}
+#tabs-min .ui-widget-header {
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #c0c0c0;
+    -moz-border-radius: 0;
+    -webkit-border-radius: 0;
+    border-radius: 0;
+}
+#tabs-min .ui-tabs-nav .ui-state-default {
+    background: transparent;
+    border: none;
+}
+#tabs-min .ui-tabs-nav .ui-state-active {
+    background: transparent url(../aahelpers/img/tabs/uiTabsArrow.png) no-repeat bottom center;
+    border: none;
+}
+#tabs-min .ui-tabs-nav .ui-state-default a {
+    color: #c0c0c0;
+}
+#tabs-min .ui-tabs-nav .ui-state-active a {
+    color: #007bff;
+}
+
+/* tabs */
+#tabsInfo {
+    background: transparent;
+    border: none;
+}
+#tabsInfo .ui-widget-header {
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #c0c0c0;
+    -moz-border-radius: 0;
+    -webkit-border-radius: 0;
+    border-radius: 0;
+}
+#tabsInfo .ui-tabs-nav .ui-state-default {
+    background: transparent;
+    border: none;
+}
+#tabsInfo .ui-tabs-nav .ui-state-active {
+    background: transparent url(../aahelpers/img/tabs/uiTabsArrow.png) no-repeat bottom center;
+    border: none;
+}
+#tabsInfo .ui-tabs-nav .ui-state-default a {
+    color: #383d41;
+}
+#tabsInfo .ui-tabs-nav .ui-state-active a {
+    color: #007bff;
+}
+
+.mg-div-header {
+    border-width: 1px;
+    border-style:none none dashed none;
+}
+
+.mg-button-padding {
+    color: white;
+}
+
+option {
+    padding: 0 2px;
+}
+
+/*
+select.form-control {
+    padding: 0 2px;
+}
+
+ */
+
+
+.mg-pl-3 {
+    padding-left: 3px;
+}
+.mg-ml-3 {
+    margin-left: 3px;
+}
+
+.mg-pb-2 {
+    padding-bottom: 3px;
+}
+
+.border-customized-input {
+    border: 2px solid #eee;
+}
+
