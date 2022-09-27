@@ -1,0 +1,33 @@
+[14-Jul-2022 05:20:07 UTC] PHP Notice:  Undefined index: userId in /home/hkghbhzh/public_html/bodmin/guidningar/customers/index.php on line 38
+[14-Jul-2022 05:20:07 UTC] PHP Notice:  Undefined index: preferredLanguageId in /home/hkghbhzh/public_html/aahelpers/common-functions.php on line 60
+[14-Jul-2022 05:20:07 UTC] PHP Notice:  Undefined index: userId in /home/hkghbhzh/public_html/bodmin/guidningar/customers/index.php on line 49
+[15-Jul-2022 10:49:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `hkghbhzh_fbodata`.`v2guiding_customers`.`CHANGED_BY` at row 1 in /home/hkghbhzh/public_html/aahelpers/db.php:409
+Stack trace:
+#0 /home/hkghbhzh/public_html/aahelpers/db.php(409): PDOStatement->execute()
+#1 /home/hkghbhzh/public_html/bodmin/guidningar/customers/handleData.php(36): writeGuidingCustomer(Object(PDO), '', '0', 'KWS Scandinavia...', 'Box 185 Kn\xC3\xA4sto...', '24522', 'Staffanstorp', 'Harald P\xC3\xA5lsson', 'harald.palsson@...', '+46 706 46 97 9...', '', '', '', '', '', '')
+#2 {main}
+  thrown in /home/hkghbhzh/public_html/aahelpers/db.php on line 409
+[15-Jul-2022 10:50:00 UTC] PHP Notice:  Undefined index: userId in /home/hkghbhzh/public_html/bodmin/guidningar/customers/index.php on line 38
+[15-Jul-2022 10:50:00 UTC] PHP Notice:  Undefined index: preferredLanguageId in /home/hkghbhzh/public_html/aahelpers/common-functions.php on line 60
+[15-Jul-2022 10:50:00 UTC] PHP Notice:  Undefined index: userId in /home/hkghbhzh/public_html/bodmin/guidningar/customers/index.php on line 49
+[15-Jul-2022 10:50:29 UTC] PHP Notice:  Undefined index: userId in /home/hkghbhzh/public_html/bodmin/guidningar/customers/index.php on line 38
+[15-Jul-2022 10:50:29 UTC] PHP Notice:  Undefined index: preferredLanguageId in /home/hkghbhzh/public_html/aahelpers/common-functions.php on line 60
+[15-Jul-2022 10:50:29 UTC] PHP Notice:  Undefined index: userId in /home/hkghbhzh/public_html/bodmin/guidningar/customers/index.php on line 49
+[15-Jul-2022 10:50:56 UTC] PHP Notice:  Undefined index: userId in /home/hkghbhzh/public_html/bodmin/guidningar/customers/index.php on line 38
+[15-Jul-2022 10:50:56 UTC] PHP Notice:  Undefined index: preferredLanguageId in /home/hkghbhzh/public_html/aahelpers/common-functions.php on line 60
+[15-Jul-2022 10:50:56 UTC] PHP Notice:  Undefined index: userId in /home/hkghbhzh/public_html/bodmin/guidningar/customers/index.php on line 49
+[15-Jul-2022 10:51:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `hkghbhzh_fbodata`.`v2guiding_customers`.`CHANGED_BY` at row 1 in /home/hkghbhzh/public_html/aahelpers/db.php:409
+Stack trace:
+#0 /home/hkghbhzh/public_html/aahelpers/db.php(409): PDOStatement->execute()
+#1 /home/hkghbhzh/public_html/bodmin/guidningar/customers/handleData.php(36): writeGuidingCustomer(Object(PDO), '', '0', 'KWS', 'Box 185 Kn\xC3\xA4sto...', '24522', 'Staffanstorp', 'Harald P\xC3\xA5lsson', 'harald.palsson@...', '+46 706 46 97 9...', '', '', '', '', '', '')
+#2 {main}
+  thrown in /home/hkghbhzh/public_html/aahelpers/db.php on line 409
+[15-Jul-2022 10:52:12 UTC] PHP Notice:  Undefined index: userId in /home/hkghbhzh/public_html/bodmin/guidningar/customers/index.php on line 38
+[15-Jul-2022 10:52:12 UTC] PHP Notice:  Undefined index: preferredLanguageId in /home/hkghbhzh/public_html/aahelpers/common-functions.php on line 60
+[15-Jul-2022 10:52:12 UTC] PHP Notice:  Undefined index: userId in /home/hkghbhzh/public_html/bodmin/guidningar/customers/index.php on line 49
+[15-Jul-2022 10:54:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'TEL_NO_1' at row 1 in /home/hkghbhzh/public_html/aahelpers/db.php:409
+Stack trace:
+#0 /home/hkghbhzh/public_html/aahelpers/db.php(409): PDOStatement->execute()
+#1 /home/hkghbhzh/public_html/bodmin/guidningar/customers/handleData.php(36): writeGuidingCustomer(Object(PDO), '38', '0', 'KWS', 'Box 185 Kn\xC3\xA4sto...', '24522', 'Staffanstorp', 'Harald P\xC3\xA5lsson', 'harald.palsson@...', '+46 706 46 97 9...', '', '', '', '', '', '')
+#2 {main}
+  thrown in /home/hkghbhzh/public_html/aahelpers/db.php on line 409

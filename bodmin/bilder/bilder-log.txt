@@ -1,0 +1,34 @@
+1. get and edit species names; OK
+2. get and edit keyword names; OK
+3. edit meta data - populating modal - OK;
+4. delete picture altogether - yes(including blog check! - no)
+5. translations;
+6. upload of photo, "any" size, "any" image format - OK;
+
+7. cropping and flipping;
+
+-----
+8. paging, or scrolling table;
+9. "only my photos"
+
+----
+
+10. publish gallery:
+
+----
+
+11. copy functionality to blog module
+
+1. DONE,DONE - Language texts
+2. DONE - Edit screen load image -> TODO datum
+3. DOPNE - Ajax loading of data + refresh 
+4. DONE - User communications
+5. DONE - Search, more than one word;
+
+?? Spinners?
+
+6. Formatet - men vad ?!
+7. Comment as meta data (?) language?
+
+
+

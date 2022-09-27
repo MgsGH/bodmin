@@ -1,0 +1,278 @@
+$_POST size: 12
+  
+mode: edit
+name: Fett
+standard: 1
+sortOrder: 2
+val_common: 1
+disp_common: 0
+sex: 4
+age: 99
+months: 1,2,3,4,5,6,7,8,9,10,11,12
+min: 0
+max: 1
+id: 14
+  
+  
+$_POST size: 12
+  
+mode: edit
+name: Fett
+standard: 1
+sortOrder: 2
+val_common: 1
+disp_common: 0
+sex: 4
+age: 99
+months: 1,2,3,4,5,6,7,8,9,10,11,12
+min: 0
+max: 9
+id: 14
+  
+  
+$_POST size: 12
+  
+mode: edit
+name: Fett
+standard: 1
+sortOrder: 2
+val_common: 1
+disp_common: 0
+sex: 4
+age: 99
+months: 1,2,3,4,5,6,7,8,9,10,11,12
+min: 0
+max: 8
+id: 14
+  
+  
+$_POST size: 12
+  
+mode: edit
+name: Fett
+standard: 1
+sortOrder: 99
+val_common: 1
+disp_common: 0
+sex: 4
+age: 99
+months: 1,2,3,4,5,6,7,8,9,10,11,12
+min: 0
+max: 9
+id: 14
+  
+  
+$_POST size: 12
+  
+mode: edit
+name: Fett
+standard: 1
+sortOrder: 2
+val_common: 1
+disp_common: 0
+sex: 4
+age: 99
+months: 1,2,3,4,5,6,7,8,9,10,11,12
+min: 0
+max: 9
+id: 14
+  
+  
+$_POST size: 12
+  
+mode: edit
+name: Vikt
+standard: 1
+sortOrder: 3
+val_common: 0
+disp_common: 0
+sex: 4
+age: 99
+months: 1,2,3,4,5,6,7,8,9,10,11,12
+min: 0
+max: 0
+id: 2
+  
+  
+$_POST size: 12
+  
+mode: edit
+name: Ruggning - HP
+standard: 1
+sortOrder: 6
+val_common: 1
+disp_common: 0
+sex: 4
+age: 99
+months: 4
+min: 0
+max: 50
+id: 10
+  
+  
+$_POST size: 12
+  
+mode: edit
+name: Ruggning - Pull
+standard: 1
+sortOrder: 4
+val_common: 1
+disp_common: 0
+sex: 4
+age: 99
+months: 4,7,8,9,10,11,12
+min: 0
+max: 9
+id: 8
+  
+  
+$_POST size: 2
+  
+mode: delete
+id: 13
+  
+  
+$_POST size: 12
+  
+mode: edit
+name: Ruggning - Pull
+standard: 1
+sortOrder: 4
+val_common: 1
+disp_common: 1
+sex: 4
+age: 99
+months: 1,2,3,4,5,6,7,8,9,10,11,12
+min: 0
+max: 9
+id: 8
+  
+  
+$_POST size: 12
+  
+mode: edit
+name: Ruggning - AP
+standard: 1
+sortOrder: 5
+val_common: 1
+disp_common: 1
+sex: 4
+age: 99
+months: 1,2,3,4,5,6,7,8,9,10,11,12
+min: 0
+max: 30
+id: 9
+  
+  
+$_POST size: 12
+  
+mode: edit
+name: Ruggning - HP
+standard: 1
+sortOrder: 6
+val_common: 1
+disp_common: 1
+sex: 4
+age: 99
+months: 1,2,3,4,5,6,7,8,9,10,11,12
+min: 0
+max: 50
+id: 10
+  
+  
+$_POST size: 12
+  
+mode: edit
+name: Sophie
+standard: 0
+sortOrder: 7
+val_common: 1
+disp_common: 0
+sex: 4
+age: 99
+months: 4,7,8,9,10,11,12
+min: 1
+max: 35
+id: 12
+  
+  
+$_POST size: 12
+  
+mode: edit
+name: Ruggning - Pull
+standard: 1
+sortOrder: 4
+val_common: 1
+disp_common: 1
+sex: 4
+age: 99
+months: 1,2,3,4,5,6,7,8,9,10,11,12
+min: 0
+max: 9
+id: 8
+  
+  
+$_POST size: 12
+  
+mode: edit
+name: Ruggning - HP
+standard: 1
+sortOrder: 6
+val_common: 1
+disp_common: 1
+sex: 4
+age: 99
+months: 1,2,3,4,5,6,7,8,9,10,11,12
+min: 0
+max: 50
+id: 10
+  
+  
+$_POST size: 12
+  
+mode: edit
+name: Tars 
+standard: 0
+sortOrder: 99
+val_common: 0
+disp_common: 0
+sex: null
+age: null
+months: 
+min: 0
+max: 0
+id: 3
+  
+  
+$_POST size: 12
+  
+mode: edit
+name: Tars 
+standard: 1
+sortOrder: 0
+val_common: 0
+disp_common: 1
+sex: 4
+age: 99
+months: 1,2,3,4,5,6,7,8,9,10,11,12
+min: 0
+max: 0
+id: 3
+  
+  
+$_POST size: 12
+  
+mode: edit
+name: Tars 
+standard: 1
+sortOrder: 0
+val_common: 0
+disp_common: 1
+sex: 4
+age: 99
+months: 1,2,3,4,5,6,7,8,9,10,11,12
+min: 0
+max: 0
+id: 3
+  
+  
